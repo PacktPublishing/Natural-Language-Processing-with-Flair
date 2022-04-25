@@ -58,8 +58,8 @@ You'll find this book useful if you are interested in using distributed systems 
 
 | Chapter  | Software required                    | OS required                        |
 | -------- | ------------------------------------ | -----------------------------------|
-| 1-12	   | Flair 0.11                           | Windows, Mac OS X, and Linux (Any) |
-| 1-12	   | Flask 2.0.3                          | Windows, Mac OS X, and Linux (Any) |
+| 1-10	   | Flair 0.11                           | Windows, Mac OS X, and Linux (Any) |
+| 1-10	   | Flask 2.0.3                          | Windows, Mac OS X, and Linux (Any) |
 
 Detailed instructions about how to set up your local environment and install the Python
 packages can be found in Chapter 1, Introduction to Flair
