@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/natural-language-processing-with-flair/9781801072311?utm_source=github&utm_medium=repository&utm_campaign=9781801072311"><img src="https://static.packt-cdn.com/products/9781801072311/cover/smaller" alt="Natural Language Processing with Flair" height="256px" align="right"></a>
 
-This is the code repository for [Natural Language Process ng with Flair](https://www.packtpub.com/product/natural-language-processing-with-flair/9781801072311?utm_source=github&utm_medium=repository&utm_campaign=9781801072311), published by Packt.
+This is the code repository for [Natural Language Processing with Flair](https://www.packtpub.com/product/natural-language-processing-with-flair/9781801072311?utm_source=github&utm_medium=repository&utm_campaign=9781801072311), published by Packt.
 
 **A practical guide to understanding and solving NLP problems with Flair**
 
