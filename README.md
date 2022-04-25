@@ -70,7 +70,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Mastering spaCy [[Packt]](https://www.packtpub.com/product/mastering-spacy/9781800563353?utm_source=github&utm_medium=repository&utm_campaign=9781800563353) [[Amazon]](https://www.amazon.com/dp/B093Q3XMF9)
 
-* Distributed Machine Learning with Python [[Packt]](https://www.packtpub.com/product/distributed-machine-learning-with-python/9781801815697?utm_source=github&utm_medium=repository&utm_campaign=9781801815697) [[Amazon]](https://www.amazon.com/dp/1801070032)
+* Distributed Machine Learning with Python [[Packt]](https://www.packtpub.com/product/distributed-machine-learning-with-python/9781801815697?utm_source=github&utm_medium=repository&utm_campaign=9781801815697) [[Amazon]](https://www.amazon.com/dp/B09TRV6ZTZ)
 
 ## Get to Know the Author
 **Tadej Magajna**
