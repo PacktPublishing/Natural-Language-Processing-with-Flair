@@ -64,8 +64,7 @@ You'll find this book useful if you are interested in using distributed systems 
 Detailed instructions about how to set up your local environment and install the Python
 packages can be found in Chapter 1, Introduction to Flair
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/
-downloads/9781801072311_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781801072311_ColorImages.pdf).
 
 
 ### Related products <Other books you may enjoy>
