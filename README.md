@@ -38,7 +38,7 @@ s = Sentence('Some nice text.', use_tokenizer=tokenizer)
 print(s)
 ```
 
-This repository contains Jupyter notebooks containing code snippets from the book _Natural Language Processing with Flair_ published ba Packt Publishing. Each notebook belongs to one chapter in the book.
+This repository contains Jupyter notebooks containing code snippets from the book _Natural Language Processing with Flair_ published by Packt Publishing. Each notebook belongs to one chapter in the book.
 
 Before running the notebooks make sure to install Flair version 0.11 by running:
 ```
