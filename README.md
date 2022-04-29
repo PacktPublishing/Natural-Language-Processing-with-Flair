@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * Learn about a novel text classification technique called TARS
 * Discover how to build applications with Flair and how to deploy them to production
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B09NC5XJ6D) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Natural-Language-Processing-Flair-understanding/dp/1801072310) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
