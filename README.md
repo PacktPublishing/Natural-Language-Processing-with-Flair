@@ -1,3 +1,6 @@
+
+<b><p align='center'>[![Packt Sale](https://static.packt-cdn.com/assets/images/packt+events/Improve_UX.png)](https://packt.link/algotradingpython)</p></b> 
+
 # Natural Language Processing with Flair
 
 <a href="https://www.packtpub.com/product/natural-language-processing-with-flair/9781801072311?utm_source=github&utm_medium=repository&utm_campaign=9781801072311"><img src="https://static.packt-cdn.com/products/9781801072311/cover/smaller" alt="Natural Language Processing with Flair" height="256px" align="right"></a>
